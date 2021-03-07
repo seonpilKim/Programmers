@@ -1,4 +1,4 @@
-[Level1] 직사각형 별찍기 (https://programmers.co.kr/learn/courses/30/lessons/12969)
+[Lv. 1] 직사각형 별찍기 (https://programmers.co.kr/learn/courses/30/lessons/12969)
 
 문제 설명
 ----

@@ -10,7 +10,7 @@
 #include <math.h>
 
 char* solution(int num) {
-    char* answer = (char *)malloc(sizeof(char) * 5);
+    char* answer = (char *)malloc(sizeof(char) * 4);
 
     if(abs(num) % 2 == 1) answer = "Odd";
     else answer = "Even";

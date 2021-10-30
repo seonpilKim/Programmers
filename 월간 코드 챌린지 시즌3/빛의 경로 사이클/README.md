@@ -1,4 +1,4 @@
-# [아이템 줍기](https://programmers.co.kr/learn/courses/30/lessons/87694)
+# [빛의 경로 사이클](https://programmers.co.kr/learn/courses/30/lessons/86052)
 ## 🤔접근
 - 각 칸마다 빛을 4방향에서 한 번씩 쏘았을 때, 중복되지 않는 사이클을 찾고, 그 사이클의 길이를 구해야 한다.
     - 완전탐색을 진행하되, `각 칸마다 + 각 방향마다` 방문여부를 체크함으로써 사이클을 찾자.
